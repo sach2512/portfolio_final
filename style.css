@@ -312,6 +312,7 @@ body {
 /*---------------------------Projects---------------------------*/
 .project-content{
     padding: 90px 0;
+    margin-top:400px;
     /* color:#fff;  */
   }
   .project-title{
@@ -517,5 +518,8 @@ body {
     .project {
       flex-basis: 100%;
       margin-bottom: 30px;
+    }
+    .project-content{
+      margin-top:0px
     }
   }
